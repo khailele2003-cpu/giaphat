@@ -1,0 +1,23 @@
+
+{
+  "name": "gia-phat-shop-deal-shopee",
+  "version": "1.1.0",
+  "description": "Website săn deal Shopee chính hãng từ Gia Phát Shop",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for ESM-based static site'"
+  },
+  "keywords": [
+    "shopee",
+    "affiliate",
+    "deal",
+    "gia-phat-shop"
+  ],
+  "author": "Gia Phát Shop",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
